@@ -12,3 +12,4 @@ User interface for Dr Ajit Panesar's LatTess Software
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## User Guide
+A more detailed user guide can be found <a href="/docs/UserGuide.md">here</a>.
