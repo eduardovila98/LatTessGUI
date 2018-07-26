@@ -1,6 +1,7 @@
 # LatTess User Guide
 
 ## Introduction
+![Overall Screenshot](/docs/Screenshots/Overall.png)
 
 ## Tab Group
 ### Dimensions tab
