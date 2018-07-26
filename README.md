@@ -6,6 +6,8 @@
 # LatTessGUI
 User interface for Dr Ajit Panesar's LatTess Software
 
+![Screenshot](/docs/Screenshots/Overall.png)
+
 ## Tutorial Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
 " target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
