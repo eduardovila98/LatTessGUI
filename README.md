@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo_big.png" height="192"><br/>
-  <h2 align="center">LatTess: Lattice Tessellator</h2>
+  <h2 align="center">Lattice Tessellator</h2>
 </p>
 
 # LatTessGUI
