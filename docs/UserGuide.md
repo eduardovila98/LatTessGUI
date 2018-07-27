@@ -27,6 +27,14 @@ The user should choose one of the three Latticing Strategies:
 3. **Graded** - Allows for the use of a custom density map.
 
 ### Advanced Tab
+<p align="center">
+  <img src="/docs/Screenshots/AdvTab.png" height="400"><br/>
+</p>
+
+Here is where Advanced features can be added:
+1. **Hierarchical** - allows for the use of different-sized unit cells, the scalling factor is decided in the **Regions** Tab.
+2. **Morphing** - allows for the use of different unit cell types, as long as they belong to the same family (M, N or S). Unit cell type is decided in the **Regions** Tab.
+3. **Hierarchical & Morphing** - enables both advanced features simultaneously.
 
 ## Live Preview
 ![Live Preview](/docs/Screenshots/Preview.png)  
