@@ -13,7 +13,7 @@
 2. Next, chose amongst **Low**, **Intermediate** or **High** resolution. This has a direct impact on the generation time.
 3. To fully define the domain, information about the box is required. The user can either choose how many unit cells should be tessellated along each dimension, or the desired box dimensions - as multiples of the unit cell edge length.
 
-Finally the **Confirm** button should be pressed
+Finally the **Confirm** button should be pressed.
 
 ### Latticing Tab
 <p align="center">
@@ -52,7 +52,7 @@ From the three families - **Matrix surface**, **Network surface** and **Strut ba
 <p align="center">
   <img src="/docs/Screenshots/RegTab.png" height="400"><br/>
 </p>
-For each region - more than one, if planes were created - the Hierarchical scalling factor and unit cell type have to be chosen from the drop-down lists.  
+For each region (more than one, if planes were created), the Hierarchical scalling factor and unit cell type have to be chosen from the drop-down lists.  
 
 ### Output Tab
 <p align="center">
