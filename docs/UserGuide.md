@@ -45,6 +45,7 @@ Planes can be removed altogether by clicking **Remove all Planes**.
 <p align="center">
   <img src="/docs/Screenshots/UnitTab.png" height="400"><br/>
 </p>
+
 From the three families - **Matrix surface**, **Network surface** and **Strut based** - unit cells can be selected for use. Only one unit cell should be chosen, except if **Morphing** is enabled, in which case, multiple (but from the same family) can be used.
 
 ### Regions Tab
