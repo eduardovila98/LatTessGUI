@@ -39,7 +39,7 @@ The user should create planes, across which the change in unit cell (type and/or
 1. Click on e.g. **Create XY** Plane
 2. Input the position in the normal direction (in this case Z), from the origin, in mm.
 3. Click **Confirm Plane**.
-Planes can be removed altogether by clicking **Remove all Planes**.
+Planes can be removed altogether by clicking **Remove all Planes**
 
 ### Unit Cells Tab
 <p align="center">
@@ -52,8 +52,7 @@ From the three families - **Matrix surface**, **Network surface** and **Strut ba
 <p align="center">
   <img src="/docs/Screenshots/RegTab.png" height="400"><br/>
 </p>
-For each region - more than one, if planes were created - the Hierarchical scalling factor and unit cell type have to be chosen from the drop-down lists.
-Then click **Confirm**.
+For each region - more than one, if planes were created - the Hierarchical scalling factor and unit cell type have to be chosen from the drop-down lists.  
 
 ### Output Tab
 <p align="center">
