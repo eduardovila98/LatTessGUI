@@ -35,8 +35,33 @@ Here is where Advanced features can be added:
 1. **Hierarchical** - allows for the use of different-sized unit cells, the scalling factor is decided in the **Regions** Tab.
 2. **Morphing** - allows for the use of different unit cell types, as long as they belong to the same family (M, N or S). Unit cell type is decided in the **Regions** Tab.
 3. **Hierarchical & Morphing** - enables both advanced features simultaneously.
+The user should create planes, across which the change in unit cell (type and/or size) takes place. These are orthogonal and are created as follows:
+1. Click on e.g. **Create XY** Plane
+2. Input the position in the normal direction (in this case Z), from the origin, in mm.
+3. Click **Confirm Plane**.
+Planes can be removed altogether by clicking **Remove all Planes**.
+
+### Unit Cells Tab
+<p align="center">
+  <img src="/docs/Screenshots/UnitTab.png" height="400"><br/>
+</p>
+From the three families - **Matrix surface**, **Network surface** and **Strut based** - unit cells can be selected for use. Only one unit cell should be chosen, except if **Morphing** is enabled, in which case, multiple (but from the same family) can be used.
+
+### Regions Tab
+<p align="center">
+  <img src="/docs/Screenshots/RegTab.png" height="400"><br/>
+</p>
+For each region - more than one, if planes were created - the Hierarchical scalling factor and unit cell type have to be chosen from the drop-down lists.
+Then click **Confirm**.
+
+### Output Tab
+<p align="center">
+  <img src="/docs/Screenshots/OutTab.png" height="400"><br/>
+</p>
 
 ## Live Preview
-![Live Preview](/docs/Screenshots/Preview.png)  
+<p align="center">
+  <img src="/docs/Screenshots/Preview.png" height="400"><br/>
+</p> 
 A constantly refreshing 3D plot is used to represent the tesselation domain. Can be manually refreshed using the **Refresh** button.
 When in the **Latticing** Tab, it displays where the 8 nodes are. When in the **Regions** Tab, each numbered region is displayed.
