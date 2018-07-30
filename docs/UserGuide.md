@@ -59,7 +59,14 @@ For each region (more than one, if planes were created), the Hierarchical scalli
 ### Output Tab
 <p align="center">
   <img src="/docs/Screenshots/OutTab.png" height="400"><br/>
-</p>
+</p>  
+Here there is the option to either:  
++ Make it a dogbone specimen;  
++ Instersect the domain with a custom shape (STL file).  
+There are the following export options:  
++ **STL file** with the a **Fractional Triangle Reduction** setting.  
++ **Images** or **Voxels**  
++ **FEA Mesh** that can be used for either Abaqus or Nastran.  
 
 ## Live Preview
 <p align="center">
