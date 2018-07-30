@@ -1,7 +1,9 @@
 # LatTess User Guide
 
 ## Introduction
-![Overall Screenshot](/docs/Screenshots/Overall.png)
+![Overall Screenshot](/docs/Screenshots/Overall.png)  
+  
+The user is supposed to go through the 6 Stages in the Tab group, having an updating representation in the **Live Preview**. Each stage should be confirmed using the **Confirm** button. At the last stage, the output is created.
 
 ## Tab Group
 ### Dimensions tab
@@ -13,7 +15,7 @@
 2. Next, chose amongst **Low**, **Intermediate** or **High** resolution. This has a direct impact on the generation time.
 3. To fully define the domain, information about the box is required. The user can either choose how many unit cells should be tessellated along each dimension, or the desired box dimensions - as multiples of the unit cell edge length.
 
-Finally the **Confirm** button should be pressed.
+Finally, the **Confirm** button should be pressed.
 
 ### Latticing Tab
 <p align="center">
@@ -22,7 +24,7 @@ Finally the **Confirm** button should be pressed.
 
 High densities (more than ~0.4) lead to long times for FEA. Therefore, there is an option for either **Quick** or **Detailed** Analysis.  
 The user should choose one of the three Latticing Strategies:
-1. **Uniform** - this uses the same volume fraction throughout the box.
+1. **Uniform** - This uses the same volume fraction throughout the box.
 2. **Scalled** - Using values for density in the eight vertices, interpolation is done.
 3. **Graded** - Allows for the use of a custom density map.
 
@@ -32,14 +34,14 @@ The user should choose one of the three Latticing Strategies:
 </p>
 
 Here is where Advanced features can be added:
-1. **Hierarchical** - allows for the use of different-sized unit cells, the scalling factor is decided in the **Regions** Tab.
-2. **Morphing** - allows for the use of different unit cell types, as long as they belong to the same family (M, N or S). Unit cell type is decided in the **Regions** Tab.
-3. **Hierarchical & Morphing** - enables both advanced features simultaneously.
++ **Hierarchical** - allows for the use of different-sized unit cells, the scalling factor is decided in the **Regions** Tab.
++ **Morphing** - allows for the use of different unit cell types, as long as they belong to the same family (M, N or S). Unit cell type is decided in the **Regions** Tab.
++ **Hierarchical & Morphing** - enables both advanced features simultaneously.
 The user should create planes, across which the change in unit cell (type and/or size) takes place. These are orthogonal and are created as follows:
 1. Click on e.g. **Create XY** Plane
 2. Input the position in the normal direction (in this case Z), from the origin, in mm.
 3. Click **Confirm Plane**.
-Planes can be removed altogether by clicking **Remove all Planes**
+4. Planes can be removed altogether by clicking **Remove all Planes.**
 
 ### Unit Cells Tab
 <p align="center">
