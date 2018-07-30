@@ -64,7 +64,9 @@ Here there is the option to either:
 
 + Make it a dogbone specimen;  
 + Instersect the domain with a custom shape (STL file).  
-There are the following export options:  
+
+There are the following export options:
+
 + **STL file** with the a **Fractional Triangle Reduction** setting.  
 + **Images** or **Voxels**  
 + **FEA Mesh** that can be used for either Abaqus or Nastran.  
