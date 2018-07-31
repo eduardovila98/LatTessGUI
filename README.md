@@ -16,3 +16,11 @@ alt="La video" width="240" height="180" border="10" /></a>
 
 ## User Guide
 A more detailed user guide can be found <a href="/docs/UserGuide.md">here</a>.
+
+## Acknowledgements
++ **Dr Ajit Panesar** - Creator & back-end development.  
+[Strategies for functionally graded lattice structures derived using topology optimisation for Additive Manufacturing](https://www.sciencedirect.com/science/article/pii/S221486041730115X)
++ **Eduardo Vila** - Front-end development.
++ **Annie Y Chan** - Finite Element Analysis.
++ **Jamie Porter** - Morphing implementation.
++ **Name** - Project Supporter
