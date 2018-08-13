@@ -10,8 +10,8 @@ User interface for Dr Ajit Panesar's LatTess Software
 </p>
 
 ## Tutorial Video
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
-" target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Sqz2zezzPqQ
+" target="_blank"><img src="http://img.youtube.com/vi/Sqz2zezzPqQ/0.jpg" 
 alt="La video" width="240" height="180" border="10" /></a>
 
 ## User Guide
